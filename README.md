@@ -52,3 +52,5 @@ This analysis has been made for academic propuses.
 
 [View the Tableau Dashboard on Banking Expansion Opportunities](https://public.tableau.com/app/profile/isaac.contreras/viz/AtlasGlobalBank/BankingExpansionOpportunitiesCaseAnalysis)
 
+Check: **6.6 Sourcing & Analyzing Time Series Data** in Scripts for further in-depth analysis of a specific top market target, India.
+
